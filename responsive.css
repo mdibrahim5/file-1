@@ -1,0 +1,22 @@
+@media screen and (max-width: 575px)  {
+    .properties-img  img{
+        width: 50%;
+    }
+   
+    .house-area .nav ul  li {
+      width: 100%;
+    }
+}
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+     width: 100%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .footer-header .email-input button {
+    width: 100%;
+  }
+  .footer-header .email-input input {
+    width: 100%;
+  }
+}
